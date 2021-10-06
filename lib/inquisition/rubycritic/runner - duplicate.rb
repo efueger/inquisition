@@ -56,3 +56,4 @@ module Inquisition
     end
   end
 end
+
